@@ -1,0 +1,23 @@
+{
+  "name": "@caoshouse/data-uri",
+  "version": "1.0.0",
+  "description": "Decodes/Encodes images to DATAURI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IMAGES",
+    "BASE64",
+    "DATAURI"
+  ],
+  "author": "caoshouse",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mime-types": "^2.1.1",
+    "@types/node": "^18.11.3"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
